@@ -22,8 +22,8 @@ Installation
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mateorovere/Generative-adversarial-networks.git
-cd Generative-adversarial-networks
+git clone https://github.com/Mateorovere/CNN-From-Scratch.git
+cd CNN-From-Scratch
 
 ```
 
