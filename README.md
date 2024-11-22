@@ -69,6 +69,8 @@ The frontend will open automatically at http://localhost:3000.
 2. Click the "Classify" button to send the drawing to the backend.
 3. View the predicted digit below the canvas.
 
+---
+
 ## Model Details
 The CNN is implemented from scratch using NumPy. It consists of the following components:
 
@@ -78,6 +80,8 @@ The CNN is implemented from scratch using NumPy. It consists of the following co
 - Fully Connected Layer: Maps extracted features to class probabilities.
 
 The model was trained on the MNIST dataset and achieves high accuracy on the test set.
+
+---
 
 ## Future Improvements
 
