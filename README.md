@@ -1,4 +1,4 @@
-# Handwritten Digit Classifier
+# CNN-From-Scratch (Work in progress)
 
 A complete project to classify handwritten digits using a Convolutional Neural Network (CNN) built from scratch with NumPy and a web interface created with Flask (backend) and React (frontend). Users can draw a digit on a canvas and get a prediction from the trained CNN model.
 
