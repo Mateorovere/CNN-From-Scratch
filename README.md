@@ -1,4 +1,4 @@
-# CNN-From-Scratch (Work in progress)
+# CNN-From-Scratch
 
 A complete project to classify handwritten digits using a Convolutional Neural Network (CNN) built from scratch with NumPy and a web interface created with Flask (backend) and React (frontend). Users can draw a digit on a canvas and get a prediction from the trained CNN model.
 
@@ -84,5 +84,5 @@ The model was trained on the MNIST dataset and achieves high accuracy on the tes
 ---
 
 ## Future Improvements
-
-Use docker-compose.yml
+- Not satisfied with model predictions (Have to improve ASAP)
+- Use docker-compose.yml
