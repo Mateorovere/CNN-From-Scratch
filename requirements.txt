@@ -4,3 +4,6 @@ scikit-learn
 pandas
 flask-cors
 flask
+keras
+tensorflow
+np-utils
